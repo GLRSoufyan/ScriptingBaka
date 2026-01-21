@@ -14,16 +14,14 @@ $kleuren = [
 ];
 
 $namen = [
-    "Xarg",
-    "Blip",
-    "Zorg",
-    "Mek",
-    "Tarn",
-    "Bloop",
     "Rafiu",
     "Salah",
     "Fabian",
-    "Souf",
+    "Soufyan",
+    "Nassim",
+    "Tugra",
+    "Guusje",
+    "Luka",
 ];
 
 class Alien{
