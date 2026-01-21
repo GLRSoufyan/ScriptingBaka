@@ -7,6 +7,10 @@ $kleuren = [
     "Geel" => "#ffff00",
     "Roze" => "#ff00ff",
     "Cyaan" => "#00ffff",
+    "Wit" => "#ffffff",
+    "Paars" => "#AF00FF",
+    "Turqoise" => "#00FFB7",
+    "Oranje" => "#FF8C00",
 ];
 
 $namen = [
@@ -16,6 +20,10 @@ $namen = [
     "Mek",
     "Tarn",
     "Bloop",
+    "Rafiu",
+    "Salah",
+    "Fabian",
+    "Souf",
 ];
 
 class Alien{
@@ -50,3 +58,20 @@ while ($var <= 100) {
 }
 
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<style>
+body {
+background-color: #000;
+color: #fff;
+}
+</style>
+</body>
+</html>
